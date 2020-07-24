@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+some of you may die, but that is a sacrifice i'm willing to make
 Use the left arrow to go back!
